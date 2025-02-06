@@ -1,0 +1,383 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    position: fixed;
+    background-color: #fff;
+}
+.mein-menu h1{
+    font-size: 44px;
+    color: red;
+    
+}
+.banner-img{
+    width: 100%;
+}
+
+.up-grad-color{
+    color:red;
+    font-size: 1.75rem;
+  }
+    .main-menu{
+      color:red;
+    }
+    .up-grad-logo{
+    font-size: 2.625rem;
+    color:red;
+    }
+    .years{
+      color: red;
+    }
+   .card-img-top{
+      height:22rem;
+      border-radius: 10px;
+    }
+    .product-card-detail h3{
+      color:red;
+    }
+    .card-area{
+      border:none;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      
+      margin-left: 0px;
+    }
+    .card-title{
+      margin-bottom: 0.5rem;
+      text-align: start;
+      color: red;
+  }
+  .years-details{
+    text-align: initial;
+    color:block;
+  }
+  .search-btn{
+      background-color: transparent;
+      border:none;
+      margin-left: -20px;
+  }
+  .search-box{
+      width: 40%;
+      border:5px;
+  }
+  .search-input{
+      border-radius: 10px;
+      box-shadow: 0px 1px 0px 0px #ccc;
+  }
+  .footer-area{
+    border: 1px solid #795c5c5c;
+  }
+
+
+/* Team Page Start */
+
+
+  .post{
+    color:darkslategrey;
+    font-size: 1.75rem;
+  }
+
+  .card-img-top{
+    height:22rem;
+    border-radius: 10px;
+  }
+  .product-card-detail h3{
+    color:red;
+  }
+  .card-area{
+    border:none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .card-title{
+    margin-bottom: 0.5rem;
+    text-align: start;
+    color: red;
+}
+.years-details{
+  text-align: initial;
+  color:block;
+}
+.header{
+
+    padding: 10px 0;
+      position: fixed;
+      z-index: 2;
+      width: 100vw;
+      background-color: white;
+  
+  }
+  
+  .card-body{
+    flex: 1 1 auto;
+  }
+  /* home-page end */
+  
+   .ceo-img {
+    float: right;
+  }
+  
+  
+  .ceo{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+  }
+  .ceo-author-deatils{
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .card-body-card{
+    flex: 1 1 auto;
+    padding: 4rem 4rem;
+  }
+  
+  .fa-solid{
+       font-weight: 900;
+      width: 150px;
+      position: absolute;
+      right: 0px;
+      margin-top: -35px;
+      font-size: 2rem;
+      color: #D3D3D3;
+  }
+  
+  
+  .co-founder-author-deatils{
+  
+    padding: 47px;
+    background-color: #fff;
+    box-shadow: 11px 4px 17px 15px rgba;
+    width: 43%;
+    box-shadow: 10px 4px 17px 15px rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    
+  }
+  
+  .post{
+    color:darkslategrey;
+    font-size: 1.75rem;
+  }
+  
+  .author-image{
+    padding-right: 2rem;
+  }
+  
+  .rcorners1 {
+    border-radius: 29px;
+    box-shadow: 10px 4px 17px 15px rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 44px;
+    width: 850px;
+    height: 274px;
+  } 
+  
+  
+  .rcorners2 {
+    border-radius: 29px;
+    box-shadow: 10px 4px 17px 15px rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 67px;
+    /* width: 779px; */
+    height: 340px;
+  } 
+  
+  .team-img-second{
+    margin-right: -120px;
+    margin-top: 44px;
+  }
+   .team-img{
+    margin-left:-120px;
+    margin-top: 23px;
+   }
+  
+  
+  .author-image1{
+  
+    padding-right: 2rem;
+  }
+  
+  .inverted-commas-img{
+    width: 150px;
+    position: absolute;
+    left: 89px;
+    margin-top: -73px;
+    z-index: 2;
+  }
+  
+  .inverted-commas-img-team{
+    width: 120px;
+    position: absolute;
+    left: 61px;
+    margin-top: 13px;
+    z-index: 2;
+  
+  }
+  
+  .inverted-commas-img-team1{
+    width: 120px;
+    position: absolute;
+    right:  245px;
+    margin-top: 24px;
+    z-index: 2;
+  
+  }
+  
+  .box-widh{
+  
+    width: 81%;
+  }
+  
+  .rcorners3 {
+    border-radius: 29px;
+    box-shadow: 10px 4px 17px 15px rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 67px;
+    width: 905px;
+    height: 380px;
+  } 
+  
+  .team-img-mohit{
+    margin-left:-115px;
+    margin-top:60px;
+  
+  }
+
+/*COMMON */
+  .space-reducer {
+    padding: 0 10rem;
+  }
+  .font-weight-700 {
+    font-weight: 700;
+  }
+  .font-weight-600 {
+    font-weight: 600;
+  }
+  .font-weight-500 {
+    font-weight: 500;
+  }
+  .font-weight-300 {
+    font-weight: 300;
+  }
+  .ug-color {
+    color: #F33E36;
+  }
+/*COMMON - END */
+
+
+/*CEO SECTION */
+.ceo-section {
+  position: relative;
+
+}
+
+.ceo{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.ceo-author-deatils{
+  padding: 10px;
+  background-color: #fff;
+}
+.ceo-img {
+  float: right;
+}
+
+/*CEO SECTION - END */
+
+/* FACULTY SECTION */
+.faculty-image {
+  width: 300px;
+  max-width: 100%;
+}
+.faculty-details {
+}
+/*FACULTY SECTION - END */
+
+/* STUDENT SECTION */
+.student-feedback {
+  position: relative;
+  margin-top: 3rem;
+  align-items: center;
+}
+
+.student-feedback.right {
+  justify-content: flex-start;
+}
+
+.student-feedback.left {
+  justify-content: flex-end;
+  margin-right: 0;
+  margin-left: auto;
+}
+.student-details {
+  width: 80%;
+  box-shadow: 10px 4px 17px 15px rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  border-radius: 2rem;
+  z-index: 10;
+  background-color: white;
+}
+.right .student-details {
+  padding: 3rem 6rem;
+}
+
+.left .student-details {
+  padding: 3rem 6rem;
+}
+
+.inverted-commas-img-team{
+  width: 120px;
+  position: absolute;
+  margin-top: 13px;
+  z-index: 20;
+  opacity: 0.4;
+}
+
+.right .inverted-commas-img-team{
+  left: -4.5rem;
+}
+
+.left .inverted-commas-img-team{
+  left: 95%;
+  -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+
+.student-image {
+  height: 15rem;
+  width: 15rem;
+  border-radius: 50%;
+  border: 2rem solid transparent;
+  position: absolute;
+  z-index: 15;
+  margin-top: 1rem;
+}
+
+.student-image img {
+  height: 11rem;
+  width: 11rem;
+  border-radius: 50%;
+}
+.right .img-pos {
+  right: 7.5rem;
+  top: 0;
+}
+
+.left .img-pos{
+  left: 7.5rem;
+  top: 0;
+}
+
+.border-on-img {
+  height: 15rem;
+  width: 15rem;
+  border: 2rem solid black;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 0;
+  margin-top: 1rem;
+}
+/* STUDENT SECTIOn - END */
